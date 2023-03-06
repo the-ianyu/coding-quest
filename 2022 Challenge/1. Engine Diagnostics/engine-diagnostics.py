@@ -10,5 +10,5 @@ with open(filepath, "r") as f:
 total = 0
 for i in range(60, len(content)):
     r_av = sum(content[i-60:i])/60
-    total = total + 1 if r_av < 1500 or r_av > 1600 else total
+    total += 1 if r_av < 1500 or r_av > 1600 else 0
 print(total) # Answer: 6248

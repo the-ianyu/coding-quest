@@ -17,5 +17,6 @@ for i in range(height):
         if len(temp) == 8:
             if temp == "00000000":
                 exit()
-            print(int(temp, 2).to_bytes(int(temp, 2).bit_length()+7//8, "big").decode(), end="") # Answer: cake
+            temp = int(temp, 2)
+            print(temp.to_bytes(temp.bit_length()).decode(), end="") # Answer: cake
             temp = ""
