@@ -1,4 +1,8 @@
 .vscode
+Template.rar
+title-converter.py
+2023 Challenge/\[-\] Current
+# ----------------------------------------
 2022 Challenge/1. Engine Diagnostics/engine-diagnostics.txt
 2022 Challenge/2. Lottery Tickets/lottery-tickets.txt
 2022 Challenge/3. Tour the Stars/tour-the-stars.txt
@@ -17,8 +21,4 @@ Practice Round/17. Message from Afar/message-from-afar.txt
 2023 Challenge/18. Inventory Check/inventory-check.txt
 2023 Challenge/19. Navigation Sensor/navigation-sensor.txt
 2023 Challenge/20. Tic Tac Toe/tic-tac-toe.txt
-# ----------------------------------------
-Template.rar
-title-converter.py
-2023 Challenge/\[-\] Current/current.py
-2023 Challenge/\[-\] Current/current.txt
+2023 Challenge/21. Mayday/mayday.txt
