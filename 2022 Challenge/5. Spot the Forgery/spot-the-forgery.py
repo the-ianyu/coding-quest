@@ -8,7 +8,7 @@ filepath = os.path.join(here, filename)
 with open(filepath, "r") as f:
     content = [x.split("|") for x in f.read().splitlines()]
 
-def hasher(x:str):
+def hasher(x):
     return sha256(x.encode()).hexdigest()
 
 untampered = True
