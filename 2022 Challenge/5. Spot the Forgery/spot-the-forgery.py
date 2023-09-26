@@ -1,5 +1,6 @@
 import os
 from hashlib import sha256
+from tqdm import tqdm
 
 filename = "spot-the-forgery.txt"
 here = os.path.dirname(os.path.abspath(__file__))
@@ -25,4 +26,4 @@ for i in range(0, len(content)):
             content[i][3] = code
             break
         content[i][1] += 1
-print(content) # Answer: 000000b60719f04f18d3ae69d12449e48d25dbb1d2e0514ff4d8decede19f728
+print(content[-1][3]) # Answer: 000000b60719f04f18d3ae69d12449e48d25dbb1d2e0514ff4d8decede19f728
