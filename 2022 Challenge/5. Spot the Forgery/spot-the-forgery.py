@@ -22,7 +22,7 @@ for i in range(0, len(content)):
     content[i][1] = 0
     content[i][2] = content[i-1][3]
     while True:
-        if code := hasher(f"{content[i][0]}|{content[i][1]}|{content[i][2]}")[:6] == "000000":
+        if (code := hasher(f"{content[i][0]}|{content[i][1]}|{content[i][2]}"))[:6] == "000000":
             content[i][3] = code
             break
         content[i][1] += 1
