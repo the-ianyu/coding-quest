@@ -1,6 +1,5 @@
 import os
 from hashlib import sha256
-from tqdm import tqdm
 
 filename = "spot-the-forgery.txt"
 here = os.path.dirname(os.path.abspath(__file__))
