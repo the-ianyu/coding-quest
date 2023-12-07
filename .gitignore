@@ -1,32 +1,5 @@
 .vscode
 Template.rar
 title-converter.py
-# ----------------------------------------
-2023 Challenge/22. Decoding Pixels/visualization.py
-2023 Challenge/24. Snakes on a Starship/visualization.py
-# ----------------------------------------
-2022 Challenge/1. Engine Diagnostics/engine-diagnostics.txt
-2022 Challenge/2. Lottery Tickets/lottery-tickets.txt
-2022 Challenge/3. Tour the Stars/tour-the-stars.txt
-2022 Challenge/4. Obsessing Over Connect Four/obsessing-over-connect-four.txt
-2022 Challenge/5. Spot the Forgery/spot-the-forgery.txt
-2022 Challenge/6. Debugging/debugging.txt
-2022 Challenge/7. Check the Heat Shields/check-the-heat-shields.txt
-2022 Challenge/8. Message from Home/message-from-home.txt
-2022 Challenge/9. Lost in an Alien Market/lost-in-an-alien-market.txt
-2022 Challenge/10. A Special Painting/a-special-painting.png
-Practice Round/13. Snakes and Ladders/snakes-and-ladders.txt
-Practice Round/14. Wordle with Friends/wordle-with-friends.txt
-Practice Round/15. Survey an Asteroid Belt/survey-an-asteroid-belt.txt
-Practice Round/16. Lost in Transmission/lost-in-transmission.txt
-Practice Round/17. Message from Afar/message-from-afar.txt
-2023 Challenge/18. Inventory Check/inventory-check.txt
-2023 Challenge/19. Navigation Sensor/navigation-sensor.txt
-2023 Challenge/20. Tic Tac Toe/tic-tac-toe.txt
-2023 Challenge/21. Mayday/mayday.txt
-2023 Challenge/22. Decoding Pixels/decoding-pixels.txt
-2023 Challenge/23. Avoid the Asteroids/avoid-the-asteroids.txt
-2023 Challenge/24. Snakes on a Starship/snakes-on-a-starship.txt
-2023 Challenge/25. Shopping Expedition/shopping-expedition.txt
-2023 Challenge/26. Index Tree/index-tree.txt
-2023 Challenge/27. The Route Home/the-route-home.txt
+**/visualization.py
+**/*.txt
